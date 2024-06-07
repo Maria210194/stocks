@@ -67,6 +67,4 @@ const Graph = () => {
   );
 };
 
-const styles = StyleSheet.create({});
-
 export default Graph;
